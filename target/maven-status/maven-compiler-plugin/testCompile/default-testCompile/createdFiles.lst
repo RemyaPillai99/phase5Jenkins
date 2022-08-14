@@ -1,0 +1,16 @@
+appTest\FbSignUp.class
+webDriverTestNG\HomePageTest.class
+appTest\ScreenShotExample.class
+pages\LoginPage.class
+appTest\LoginTest.class
+testNG\LoanTest.class
+appTest\DragAndDropExample.class
+appTest\IFrameExample.class
+appTest\FbLogin.class
+appTest\LoginTest$1.class
+appTest\WebTable.class
+webDriverTestNG\BaseClass.class
+webDriverTestNG\SimpliLearnLoginTest.class
+appTest\AlertsExample.class
+appTest\WindowsExample.class
+testNG\AccountTest.class
